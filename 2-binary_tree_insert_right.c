@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_insert_left - New leaf lik a child.
+ * binary_tree_insert_right - New leaf lik a child.
  * @parent: Pointer
  * @value: Integer
  *
